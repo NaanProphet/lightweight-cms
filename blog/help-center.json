@@ -6,5 +6,31 @@
   "pair1": {
     "key": "Why is the sky blue?",
     "value": "Physics."
-  }
+  },
+  "baseline": [
+    {
+      "key": "question1",
+      "value": "Why is the sky blue?"
+    },
+    {
+      "key": "answer1",
+      "value": "Physics."
+    },
+    {
+      "key": "question2",
+      "value": "How do I find the best red sweater for Christmas?"
+    },
+    {
+      "key": "answer2",
+      "value": "Ask Dean."
+    },
+    {
+      "key": "question3",
+      "value": "Since when do people fall for bananas?"
+    },
+    {
+      "key": "answer3",
+      "value": "Ever since Eddie Murphy in Beverly Hills Cop."
+    }
+  ]
 }
