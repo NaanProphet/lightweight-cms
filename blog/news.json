@@ -2,5 +2,11 @@
   "date": "2020-10-27T22:32:39.343Z",
   "path": "news",
   "title": "News",
-  "md": "yo"
+  "md": "yo",
+  "baseline": [
+    {
+      "key": "a",
+      "value": "a"
+    }
+  ]
 }
