@@ -36,5 +36,6 @@
       "key": "section7.title.name",
       "value": "This is a Great Section!"
     }
-  ]
+  ],
+  "md": "Rich text **ftw**!"
 }
